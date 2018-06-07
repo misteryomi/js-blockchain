@@ -1,0 +1,1 @@
+# A simple Javascript-based blockchain module. Using the SHA256 hash function in the crypto-js library.
